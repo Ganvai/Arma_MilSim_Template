@@ -1,0 +1,23 @@
+// Kiste Echo Typ IV - Ausrüstung
+// Aufruf im Editor mit 	[this] execvm "scripts\supplies\box_echo_typ_iv.sqf";
+
+if (! isServer) exitWith {};
+
+_box = _this select 0;
+
+clearWeaponCargoGlobal _box; 
+clearMagazineCargoGlobal _box;
+clearItemCargoGlobal _box;
+clearBackpackCargoGlobal _box;
+
+_box addItemCargoGlobal ["ACE_EarPlugs",10];
+_box addItemCargoGlobal ["ACE_CableTie", 50];
+_box addItemCargoGlobal ["ACE_VMH3", 1];
+_box addItemCargoGlobal ["ACE_IR_Strobe_Item", 20];
+_box addItemCargoGlobal ["ACE_M26_Clacker", 4];
+_box addItemCargoGlobal ["Laserbatteries", 4];
+_box addItemCargoGlobal ["Laserdesignator_02_ghex_F", 2];
+_box addItemCargoGlobal ["ACE_EntrenchingTool", 1];
+_box addItemCargoGlobal ["ACE_wirecutter", 1];
+_box addItemCargoGlobal ["ACE_DefusalKit", 1];
+_box addItemCargoGlobal ["ACE_UAVBattery", 1];

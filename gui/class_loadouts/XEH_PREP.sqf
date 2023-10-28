@@ -1,0 +1,2 @@
+PREP=(getLoadouts);
+PREP=(takeLoadout);

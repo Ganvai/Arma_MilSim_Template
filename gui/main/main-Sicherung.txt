@@ -1,0 +1,30 @@
+/* #Difisa
+$[
+	1.063,
+	["MainDialog",[[0,0,1,1],0.025,0.04,"GUI_GRID"],0,0,0],
+	[1009,"Background_Header",[1,"",["0.259791 * safezoneW + safezoneX","0.192 * safezoneH + safezoneY","0.465937 * safezoneW","0.098 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1699,"Menue",[1,"",["0.270313 * safezoneW + safezoneX","0.206 * safezoneH + safezoneY","0.065625 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1698,"Cancel",[1,"",["0.650937 * safezoneW + safezoneX","0.206 * safezoneH + safezoneY","0.0590625 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1000,"Background",[1,"",["0.257187 * safezoneW + safezoneX","0.262 * safezoneH + safezoneY","0.4725 * safezoneW","0.56 * safezoneH"],[-1,-1,-1,-1],[1,1,1,0.8],[-1,-1,-1,-1],"","-1"],[]],
+	[1600,"Teleport",[1,"Teleport",["0.29 * safezoneW + safezoneX","0.374 * safezoneH + safezoneY","0.065625 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1601,"ZUG",[1,"Zug",["0.395 * safezoneW + safezoneX","0.374 * safezoneH + safezoneY","0.065625 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1602,"Sierra",[1,"Sierra",["0.395 * safezoneW + safezoneX","0.486 * safezoneH + safezoneY","0.065625 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1603,"Echo",[1,"Echo",["0.395 * safezoneW + safezoneX","0.598 * safezoneH + safezoneY","0.065625 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1604,"Lima",[1,"Lima",["0.395 * safezoneW + safezoneX","0.71 * safezoneH + safezoneY","0.065625 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1605,"Leer32",[1,"",["0.513125 * safezoneW + safezoneX","0.486 * safezoneH + safezoneY","0.065625 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1606,"Leer31",[1,"",["0.513125 * safezoneW + safezoneX","0.374 * safezoneH + safezoneY","0.065625 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1607,"Leer12",[1,"",["0.29 * safezoneW + safezoneX","0.486 * safezoneH + safezoneY","0.065625 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1608,"Leer34",[1,"",["0.513125 * safezoneW + safezoneX","0.71 * safezoneH + safezoneY","0.065625 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1609,"Leer33",[1,"",["0.513125 * safezoneW + safezoneX","0.598 * safezoneH + safezoneY","0.065625 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1610,"Leer41",[1,"",["0.618125 * safezoneW + safezoneX","0.374 * safezoneH + safezoneY","0.065625 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1612,"Leer13",[1,"",["0.29 * safezoneW + safezoneX","0.598 * safezoneH + safezoneY","0.065625 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1613,"Leer14",[1,"",["0.29 * safezoneW + safezoneX","0.71 * safezoneH + safezoneY","0.065625 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1614,"Leer42",[1,"",["0.618125 * safezoneW + safezoneX","0.486 * safezoneH + safezoneY","0.065625 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1615,"Leer43",[1,"",["0.618125 * safezoneW + safezoneX","0.598 * safezoneH + safezoneY","0.065625 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1616,"Leer44",[1,"",["0.618125 * safezoneW + safezoneX","0.71 * safezoneH + safezoneY","0.065625 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1001,"Text2",[1,"Loadouts",["0.401563 * safezoneW + safezoneX","0.29 * safezoneH + safezoneY","0.0525 * safezoneW","0.07 * safezoneH"],[-1,-1,-1,0.8],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1002,"Text3",[1,"Loadouts",["0.519688 * safezoneW + safezoneX","0.29 * safezoneH + safezoneY","0.0525 * safezoneW","0.07 * safezoneH"],[-1,-1,-1,0.8],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1003,"Text4",[1,"Loadouts",["0.624687 * safezoneW + safezoneX","0.29 * safezoneH + safezoneY","0.0525 * safezoneW","0.07 * safezoneH"],[-1,-1,-1,0.8],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1004,"Text1",[1,"Loadouts",["0.296562 * safezoneW + safezoneX","0.29 * safezoneH + safezoneY","0.0525 * safezoneW","0.07 * safezoneH"],[-1,-1,-1,0.8],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]]
+]
+*/

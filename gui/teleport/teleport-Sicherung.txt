@@ -1,0 +1,21 @@
+$[
+	1.063,
+	["Teleport_Dialog",[[0,0,1,1],0.025,0.04,"GUI_GRID"],0,0,0],
+	[1000,"Background",[1,"",["0.2375 * safezoneW + safezoneX","0.262 * safezoneH + safezoneY","0.525 * safezoneW","0.588 * safezoneH"],[-1,-1,-1,-1],[1,1,1,0.8],[-1,-1,-1,-1],"","-1"],[]],
+	[1001,"Background_Header",[1,"",["0.2375 * safezoneW + safezoneX","0.15 * safezoneH + safezoneY","0.525 * safezoneW","0.112 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1600,"Menue",[1,"",["0.24485 * safezoneW + safezoneX","0.16316 * safezoneH + safezoneY","0.065625 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1601,"Cancel",[1,"",["0.696875 * safezoneW + safezoneX","0.164 * safezoneH + safezoneY","0.0590625 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1602,"Alpha",[1,"Alpha",["0.26375 * safezoneW + safezoneX","0.318 * safezoneH + safezoneY","0.07875 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1603,"Bravo",[1,"Bravo",["0.26375 * safezoneW + safezoneX","0.458 * safezoneH + safezoneY","0.07875 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1604,"Charlie",[1,"Charlie",["0.26375 * safezoneW + safezoneX","0.598 * safezoneH + safezoneY","0.07875 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1605,"Delta",[1,"Delta",["0.26375 * safezoneW + safezoneX","0.738 * safezoneH + safezoneY","0.07875 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1606,"Sierra",[1,"Sierra",["0.395 * safezoneW + safezoneX","0.318 * safezoneH + safezoneY","0.07875 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1607,"Fox_1",[1,"Fox 1",["0.52625 * safezoneW + safezoneX","0.318 * safezoneH + safezoneY","0.07875 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1608,"Kilo_1",[1,"Kilo 1",["0.6575 * safezoneW + safezoneX","0.318 * safezoneH + safezoneY","0.07875 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1609,"Echo_1",[1,"Echo 1",["0.395 * safezoneW + safezoneX","0.458 * safezoneH + safezoneY","0.07875 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1610,"Echo_2",[1,"Echo 2",["0.395 * safezoneW + safezoneX","0.598 * safezoneH + safezoneY","0.07875 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1612,"Fox_2",[1,"Fox 2 ",["0.52625 * safezoneW + safezoneX","0.458 * safezoneH + safezoneY","0.07875 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1613,"Kilo_2",[1,"Kilo 2",["0.6575 * safezoneW + safezoneX","0.458 * safezoneH + safezoneY","0.07875 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1614,"Confirm_Teleport",[1,"Confirm_Teleport",["0.664063 * safezoneW + safezoneX","0.738 * safezoneH + safezoneY","0.07875 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1611,"Lima",[1,"Lima",["0.395 * safezoneW + safezoneX","0.738 * safezoneH + safezoneY","0.07875 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]]
+]

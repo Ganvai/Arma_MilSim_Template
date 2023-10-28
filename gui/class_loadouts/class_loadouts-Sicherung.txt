@@ -1,0 +1,10 @@
+/* #Xyzuta
+$[
+	1.063,
+	["ClassLoadouts_Dialog",[[0,0,1,1],0.025,0.04,"GUI_GRID"],0,0,0],
+	[1000,"Background",[1,"",["0.2375 * safezoneW + safezoneX","0.262 * safezoneH + safezoneY","0.525 * safezoneW","0.574 * safezoneH"],[-1,-1,-1,-1],[1,1,1,0.8],[-1,-1,-1,-1],"","-1"],[]],
+	[1614,"Confirm_Loadout",[1,"Confirm_Loadout",["0.4475 * safezoneW + safezoneX","0.738 * safezoneH + safezoneY","0.105 * safezoneW","0.084 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1500,"LoadoutList",[1,"",["0.4475 * safezoneW + safezoneX","0.318 * safezoneH + safezoneY","0.105 * safezoneW","0.378 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[2100,"TarnSelect",[1,"",["0.604606 * safezoneW + safezoneX","0.486 * safezoneH + safezoneY","0.150937 * safezoneW","0.056 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]]
+]
+*/

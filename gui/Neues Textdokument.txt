@@ -1,0 +1,18 @@
+/* #Fupavy
+$[
+	1.063,
+	["GerRngLoadoutGUINeu",[[0,0,1,1],0.025,0.04,"GUI_GRID"],0,0,0],
+	[1500,"",[1,"",["0.324687 * safezoneW + safezoneX","0.313 * safezoneH + safezoneY","0.0928125 * safezoneW","0.176 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"VerfÃ¼gbare Fraktionen","-1"],[]],
+	[1501,"",[1,"",["0.324687 * safezoneW + safezoneX","0.533 * safezoneH + safezoneY","0.0928125 * safezoneW","0.11 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"VerfÃ¼bare Tarnfarben der AusgewÃ¤hlten Fraktion","-1"],[]],
+	[1800,"",[1,"",["0.438125 * safezoneW + safezoneX","0.313 * safezoneH + safezoneY","0.252656 * safezoneW","0.396 * safezoneH"],[-1,-1,-1,-1],[0,0,0,1],[-1,-1,-1,-1],"","-1"],[]],
+	[1600,"",[1,"Zeige Loadouts",["0.340156 * safezoneW + safezoneX","0.665 * safezoneH + safezoneY","0.061875 * safezoneW","0.044 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1000,"",[1,"Camoflage",["0.324687 * safezoneW + safezoneX","0.511 * safezoneH + safezoneY","0.0928125 * safezoneW","0.022 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1001,"",[1,"Fraktion",["0.324687 * safezoneW + safezoneX","0.291 * safezoneH + safezoneY","0.0928125 * safezoneW","0.022 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1002,"",[1,"VerfÃ¼gbare Loadouts",["0.438125 * safezoneW + safezoneX","0.291 * safezoneH + safezoneY","0.0928125 * safezoneW","0.022 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1502,"",[1,"",["0.448438 * safezoneW + safezoneX","0.357 * safezoneH + safezoneY","0.0721875 * safezoneW","0.286 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1601,"",[1,"Rolle AusrÃ¼sten",["0.510312 * safezoneW + safezoneX","0.654 * safezoneH + safezoneY","0.103125 * safezoneW","0.044 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1503,"",[2,"",["24 * GUI_GRID_W + GUI_GRID_X","6 * GUI_GRID_H + GUI_GRID_Y","13 * GUI_GRID_W","13 * GUI_GRID_H"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1003,"",[1,"Einheiten",["0.448438 * safezoneW + safezoneX","0.335 * safezoneH + safezoneY","0.0721875 * safezoneW","0.022 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1004,"",[1,"Rollen",["0.54125 * safezoneW + safezoneX","0.335 * safezoneH + safezoneY","0.0721875 * safezoneW","0.022 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]]
+]
+*/
